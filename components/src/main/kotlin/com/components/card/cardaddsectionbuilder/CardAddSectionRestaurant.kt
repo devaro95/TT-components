@@ -8,10 +8,10 @@ import com.components.cardrestaurant.TTCardRestaurant
 import com.components.cardrestaurant.TTCardRestaurantType
 import com.components.section.TTSectionAdd
 import com.mock.*
-import com.model.RestaurantSectionModel
-import com.model.SectionModel
-import com.model.SectionModel.RestaurantSection.BottomImage
-import com.model.SectionModel.RestaurantSection.TopImage
+import com.domain.model.RestaurantSectionModel
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.RestaurantSection.BottomImage
+import com.domain.model.SectionModel.RestaurantSection.TopImage
 
 @Composable
 fun CreateSectionRestaurant(onSectionAddClick: (SectionModel) -> Unit) {

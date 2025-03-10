@@ -7,7 +7,7 @@ import androidx.compose.ui.unit.dp
 import com.components.bullet.TTBullet
 import com.components.bullet.TTBulletItemData
 import com.components.guide.guideBuilder.BuildSectionParams
-import com.model.SectionModel.BulletSection
+import com.domain.model.SectionModel.BulletSection
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

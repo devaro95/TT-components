@@ -23,14 +23,13 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
-import coil.compose.AsyncImage
 import coil.compose.SubcomposeAsyncImage
 import com.app.R
 import com.components.button.TTButtonIconSquare
 import com.components.styles.Secondary
 import com.components.text.TTBodyText14
 import com.components.text.TTHeaderText16
-import  com.model.GuideModel
+import  com.domain.model.GuideModel
 import com.mock.guideMock
 import com.vro.compose.preview.VROLightMultiDevicePreview
 

@@ -15,7 +15,7 @@ import com.components.footer.TTGuideStats
 import com.components.styles.*
 import com.components.text.TTBodyText
 import com.components.text.TTHeaderText18
-import com.model.GuideModel
+import com.domain.model.GuideModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @Deprecated(

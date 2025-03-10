@@ -7,7 +7,7 @@ import androidx.compose.ui.unit.dp
 import com.components.guide.guideBuilder.BuildSectionParams
 import com.components.route.TTRoute
 import com.components.route.TTRouteItemData
-import com.model.SectionModel
+import com.domain.model.SectionModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

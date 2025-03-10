@@ -25,7 +25,7 @@ import com.components.section.TTSection
 import com.components.styles.White
 import com.components.text.TTBodyText
 import com.components.text.TTHeaderText14
-import com.model.SectionModel
+import com.domain.model.SectionModel
 import com.extensions.toBitmap
 import com.mock.imageMock
 import com.mock.textMock

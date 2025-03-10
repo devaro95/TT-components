@@ -7,9 +7,9 @@ import androidx.compose.ui.unit.dp
 import com.components.bullet.TTBullet
 import com.components.bullet.TTBulletItemData
 import com.components.section.TTSectionAdd
-import com.model.SectionModel
-import com.model.SectionModel.BulletSection.Bullet
-import com.model.SectionModel.BulletSection.BulletTitle
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.BulletSection.Bullet
+import com.domain.model.SectionModel.BulletSection.BulletTitle
 import com.mock.textMock
 import com.mock.titleMock
 

@@ -11,7 +11,7 @@ import com.components.button.TTButtonIconSquare
 import com.components.guide.guideBuilder.BuildSectionParams
 import com.components.styles.Secondary
 import com.components.styles.White
-import com.model.SectionModel
+import com.domain.model.SectionModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

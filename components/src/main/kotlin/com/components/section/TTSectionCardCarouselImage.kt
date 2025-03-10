@@ -6,9 +6,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.components.cardcarousel.TTCardCarouselImage
 import com.components.guide.guideBuilder.BuildSectionParams
-import com.model.GuideModel.ImageModel
-import  com.model.ImageSectionModel
-import com.model.SectionModel.ImageSection
+import com.domain.model.GuideModel.ImageModel
+import  com.domain.model.ImageSectionModel
+import com.domain.model.SectionModel.ImageSection
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

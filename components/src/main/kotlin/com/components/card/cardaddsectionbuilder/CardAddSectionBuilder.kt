@@ -1,13 +1,13 @@
 package com.components.card.cardaddsectionbuilder
 
 import androidx.compose.runtime.Composable
-import com.model.SectionModel
-import com.model.SectionModel.SectionType.BULLET
-import com.model.SectionModel.SectionType.IMAGE
-import com.model.SectionModel.SectionType.INFO
-import com.model.SectionModel.SectionType.PARAGRAPH
-import com.model.SectionModel.SectionType.RESTAURANT
-import com.model.SectionModel.SectionType.ROUTE
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.SectionType.BULLET
+import com.domain.model.SectionModel.SectionType.IMAGE
+import com.domain.model.SectionModel.SectionType.INFO
+import com.domain.model.SectionModel.SectionType.PARAGRAPH
+import com.domain.model.SectionModel.SectionType.RESTAURANT
+import com.domain.model.SectionModel.SectionType.ROUTE
 
 @Composable
 fun BuildSectionCard(

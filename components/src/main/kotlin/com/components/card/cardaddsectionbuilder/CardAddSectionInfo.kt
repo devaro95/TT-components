@@ -7,9 +7,9 @@ import androidx.compose.ui.unit.dp
 import com.components.info.TTInfoMessage
 import com.components.info.TTInfoMessageType
 import com.components.section.TTSectionAdd
-import com.model.SectionModel
-import com.model.SectionModel.InfoSection.InfoBox
-import com.model.SectionModel.InfoSection.InfoCard
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.InfoSection.InfoBox
+import com.domain.model.SectionModel.InfoSection.InfoCard
 import com.mock.textMock
 import com.mock.titleMock
 

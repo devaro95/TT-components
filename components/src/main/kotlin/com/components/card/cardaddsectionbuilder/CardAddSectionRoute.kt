@@ -9,8 +9,8 @@ import com.components.route.TTRouteItemData
 import com.components.section.TTSectionAdd
 import com.mock.textMock
 import com.mock.titleMock
-import com.model.SectionModel
-import com.model.SectionModel.RouteSection.Route
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.RouteSection.Route
 
 @Composable
 fun CreateSectionRoute(onSectionAddClick: (SectionModel) -> Unit) {

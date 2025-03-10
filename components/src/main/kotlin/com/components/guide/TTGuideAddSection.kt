@@ -23,8 +23,8 @@ import com.components.guide.guideBuilder.BuildSectionParams
 import com.components.indicator.TTPagerIndicator
 import com.components.styles.Secondary
 import com.components.styles.White
-import com.model.SectionModel
-import  com.model.TabModel
+import com.domain.model.SectionModel
+import  com.domain.model.TabModel
 import com.vro.constants.INT_ZERO
 import kotlin.math.absoluteValue
 

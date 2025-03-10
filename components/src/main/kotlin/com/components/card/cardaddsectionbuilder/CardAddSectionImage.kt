@@ -4,9 +4,9 @@ import androidx.compose.runtime.Composable
 import com.components.cardcarousel.TTCardCarouselImage
 import com.components.image.TTImageFull
 import com.components.section.TTSectionAdd
-import com.model.SectionModel
-import com.model.SectionModel.ImageSection.CardCarousel
-import com.model.SectionModel.ImageSection.ImageFull
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.ImageSection.CardCarousel
+import com.domain.model.SectionModel.ImageSection.ImageFull
 import com.mock.imageModelMock
 import com.mock.textMock
 

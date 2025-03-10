@@ -18,7 +18,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.layout.ContentScale
-import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
@@ -28,7 +27,7 @@ import com.components.icon.TTIcon
 import com.components.styles.Primary
 import com.components.text.TTBodyText
 import com.components.text.TTHeaderText24
-import  com.model.AvatarModel
+import  com.domain.model.AvatarModel
 import com.extensions.toBitmap
 import com.vro.compose.preview.VROLightMultiDevicePreview
 import com.vro.constants.EMPTY_STRING

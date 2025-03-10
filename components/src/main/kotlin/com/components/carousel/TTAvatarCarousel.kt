@@ -45,7 +45,7 @@ import com.components.styles.Primary
 import com.components.styles.Secondary
 import com.components.text.TTBodyText
 import com.components.text.TTHeaderText24
-import  com.model.AvatarModel
+import  com.domain.model.AvatarModel
 import com.extensions.toBitmap
 import com.mapper.toDrawable
 import com.vro.compose.preview.VROLightMultiDevicePreview

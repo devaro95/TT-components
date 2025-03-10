@@ -8,7 +8,7 @@ import com.components.guide.guideBuilder.BuildSectionParams
 import com.components.info.TTInfoMessage
 import com.components.info.TTInfoMessageType
 import com.components.info.TTInfoMessageType.ELEVATED
-import com.model.SectionModel
+import com.domain.model.SectionModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

@@ -3,7 +3,7 @@ package com.components.guide.guideBuilder
 import androidx.compose.runtime.Composable
 import com.components.section.TTSectionRoute
 import com.components.section.TTSectionRouteHorizontal
-import com.model.SectionModel
+import com.domain.model.SectionModel
 
 @Composable
 fun BuildRouteSection(params: BuildSectionParams) {

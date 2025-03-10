@@ -18,9 +18,9 @@ import com.app.R
 import com.components.icon.TTIcon
 import com.components.styles.*
 import com.components.text.TTHeaderText14
+import com.domain.model.GuideModel.ImageModel
 import com.extensions.toBitmap
 import com.mock.imageMock
-import com.model.GuideModel.ImageModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @Composable

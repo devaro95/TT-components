@@ -10,7 +10,7 @@ import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.components.card.TTCardAddImageCarouselType.BIG
-import com.model.GuideModel.ImageModel
+import com.domain.model.GuideModel.ImageModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @OptIn(ExperimentalFoundationApi::class)

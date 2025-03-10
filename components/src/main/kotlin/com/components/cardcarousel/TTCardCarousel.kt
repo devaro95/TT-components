@@ -23,7 +23,7 @@ import com.components.section.TTSection
 import com.components.styles.White
 import com.components.text.TTBodyText
 import com.components.text.TTHeaderText14
-import com.model.SectionModel
+import com.domain.model.SectionModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

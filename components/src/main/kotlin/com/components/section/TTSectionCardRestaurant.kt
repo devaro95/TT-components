@@ -9,11 +9,11 @@ import com.components.cardrestaurant.TTCardRestaurantType.BOTTOM_FULL
 import com.components.cardrestaurant.TTCardRestaurantType.TOP_FULL
 import com.components.cardrestaurant.TTCardRestaurantType.TOP_LEFT
 import com.components.guide.guideBuilder.BuildSectionParams
-import com.model.SectionModel
-import com.model.SectionModel.RestaurantSection.BottomImage
-import com.model.SectionModel.RestaurantSection.TopImage
-import com.model.SectionModel.RestaurantSection.TopLeftImage
-import com.model.SectionModel.RestaurantSection.TopRightImage
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.RestaurantSection.BottomImage
+import com.domain.model.SectionModel.RestaurantSection.TopImage
+import com.domain.model.SectionModel.RestaurantSection.TopLeftImage
+import com.domain.model.SectionModel.RestaurantSection.TopRightImage
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

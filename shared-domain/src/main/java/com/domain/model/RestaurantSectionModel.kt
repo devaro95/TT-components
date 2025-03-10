@@ -1,6 +1,6 @@
-package com.model
+package com.domain.model
 
-import com.model.GuideModel.ImageModel
+import com.domain.model.GuideModel.ImageModel
 import com.vro.constants.EMPTY_STRING
 import com.vro.constants.INT_ZERO
 

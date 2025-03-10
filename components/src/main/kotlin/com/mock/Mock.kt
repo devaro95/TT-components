@@ -4,15 +4,15 @@ import com.app.R
 import com.components.cardcarousel.TTCardCarouselTitleItem
 import com.components.icon.TTIconCardCarouselItemData
 import com.components.icon.TTIconCarouselItemData
-import  com.model.GuideModel
-import  com.model.InfoSectionModel
-import  com.model.ParagraphSectionModel
-import  com.model.RestaurantPriceModel
-import  com.model.RestaurantRateModel
-import  com.model.RestaurantSectionModel.RestaurantMenu
-import com.model.SectionModel.InfoSection.InfoBox
-import com.model.SectionModel.ParagraphSection.Paragraph
-import  com.model.TabModel
+import  com.domain.model.GuideModel
+import  com.domain.model.InfoSectionModel
+import  com.domain.model.ParagraphSectionModel
+import  com.domain.model.RestaurantPriceModel
+import  com.domain.model.RestaurantRateModel
+import  com.domain.model.RestaurantSectionModel.RestaurantMenu
+import com.domain.model.SectionModel.InfoSection.InfoBox
+import com.domain.model.SectionModel.ParagraphSection.Paragraph
+import  com.domain.model.TabModel
 import kotlinx.collections.immutable.persistentListOf
 
 const val titleMock = "This is a title"

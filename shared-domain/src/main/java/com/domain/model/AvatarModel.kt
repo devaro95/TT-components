@@ -1,4 +1,4 @@
-package com.model
+package com.domain.model
 
 enum class AvatarModel {
     CUSTOM,

@@ -21,7 +21,7 @@ import com.components.text.TTHeaderText16
 import com.components.text.TTHeaderText18
 import com.components.text.TTItalicText
 import com.components.text.TTTextBorderIcon
-import  com.model.RestaurantSectionModel
+import  com.domain.model.RestaurantSectionModel
 import com.extensions.toDashedText
 import com.extensions.toEurosText
 import com.mock.addressMock

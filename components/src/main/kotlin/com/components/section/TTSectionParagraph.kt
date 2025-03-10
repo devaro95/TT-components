@@ -6,7 +6,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.components.guide.guideBuilder.BuildSectionParams
 import com.components.paragraph.TTParagraph
-import com.model.SectionModel
+import com.domain.model.SectionModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

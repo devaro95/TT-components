@@ -6,8 +6,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.components.paragraph.TTParagraph
 import com.components.section.TTSectionAdd
-import com.model.SectionModel
-import com.model.SectionModel.ParagraphSection
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.ParagraphSection
 import com.mock.textLongMock
 import com.mock.titleMock
 

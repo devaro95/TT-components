@@ -29,7 +29,6 @@ android {
     kotlinOptions {
         jvmTarget = JavaVersion.VERSION_22.toString()
     }
-
     buildFeatures {
         compose = true
     }
@@ -50,6 +49,8 @@ publishing {
 }
 
 dependencies {
+    implementation(project(":shared-domain"))
+
     implementation(platform(libs.firebase.bom))
     implementation(libs.vro.compose)
     implementation(libs.vro.common)

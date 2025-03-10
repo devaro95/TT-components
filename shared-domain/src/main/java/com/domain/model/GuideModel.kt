@@ -1,4 +1,4 @@
-package com.model
+package com.domain.model
 
 import com.vro.constants.EMPTY_STRING
 import com.vro.constants.INT_ZERO

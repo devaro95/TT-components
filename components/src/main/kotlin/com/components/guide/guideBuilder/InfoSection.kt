@@ -4,9 +4,9 @@ import androidx.compose.runtime.Composable
 import com.components.info.TTInfoMessageType.BORDER
 import com.components.info.TTInfoMessageType.ELEVATED
 import com.components.section.TTSectionInfoMessage
-import com.model.SectionModel
-import com.model.SectionModel.InfoSection.InfoBox
-import com.model.SectionModel.InfoSection.InfoCard
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.InfoSection.InfoBox
+import com.domain.model.SectionModel.InfoSection.InfoCard
 
 @Composable
 fun BuildInfoSection(params: BuildSectionParams) {

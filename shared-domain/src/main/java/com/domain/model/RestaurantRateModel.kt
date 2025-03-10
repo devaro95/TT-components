@@ -1,4 +1,4 @@
-package com.model
+package com.domain.model
 
 data class RestaurantRateModel(
     val id: Int,

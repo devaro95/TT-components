@@ -15,7 +15,7 @@ import com.extensions.toBitmap
 import com.google.accompanist.pager.HorizontalPagerIndicator
 import com.mock.imageModelMock
 import com.mock.textLongMock
-import com.model.GuideModel.ImageModel
+import com.domain.model.GuideModel.ImageModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 import com.vro.constants.EMPTY_STRING
 import com.vro.constants.INT_ONE

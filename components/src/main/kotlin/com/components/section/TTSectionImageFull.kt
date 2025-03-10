@@ -6,8 +6,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.components.guide.guideBuilder.BuildSectionParams
 import com.components.image.TTImageFull
-import com.model.SectionModel
-import com.model.SectionModel.ImageSection
+import com.domain.model.SectionModel
+import com.domain.model.SectionModel.ImageSection
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

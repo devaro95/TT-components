@@ -12,7 +12,7 @@ import com.components.text.TTBodyText
 import com.extensions.toBitmap
 import com.mock.imageModelMock
 import com.mock.textMock
-import com.model.GuideModel.ImageModel
+import com.domain.model.GuideModel.ImageModel
 import com.vro.compose.preview.VROLightMultiDevicePreview
 import com.vro.constants.EMPTY_STRING
 
