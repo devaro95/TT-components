@@ -10,7 +10,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.cardcarousel.TTCardCarouselImage
 import com.components.cardrestaurant.TTCardRestaurantType.BOTTOM_FULL
 import com.components.cardrestaurant.TTCardRestaurantType.TOP_FULL

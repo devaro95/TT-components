@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.paragraph.TTParagraph
 import com.components.styles.SectionDetailCardColor
 import com.components.text.TTTextIcon

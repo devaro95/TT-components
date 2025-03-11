@@ -5,7 +5,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.styles.Secondary
 import com.components.styles.White
 import com.vro.compose.preview.VROLightMultiDevicePreview

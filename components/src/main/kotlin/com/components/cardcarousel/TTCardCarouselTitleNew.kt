@@ -22,7 +22,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import com.bumptech.glide.integration.compose.ExperimentalGlideComposeApi
 import com.bumptech.glide.integration.compose.GlideImage
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.styles.CardBackground
 import com.components.text.TTHeaderText16
 import com.components.text.TTHeaderText18

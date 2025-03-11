@@ -16,7 +16,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.text.TTBodyText
 import com.components.text.TTHeaderText14
 import com.mock.titleMock

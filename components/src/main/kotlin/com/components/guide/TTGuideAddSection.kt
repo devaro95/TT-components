@@ -16,7 +16,7 @@ import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.util.lerp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.button.TTButtonIconSquare
 import com.components.guide.guideBuilder.BuildSection
 import com.components.guide.guideBuilder.BuildSectionParams

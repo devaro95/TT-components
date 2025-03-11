@@ -1,7 +1,7 @@
 package com.components.icon
 
 import androidx.compose.runtime.Composable
-import com.app.R
+import com.ttcomponents.app.R
 import com.vro.compose.preview.VROLightMultiDevicePreview
 
 @VROLightMultiDevicePreview

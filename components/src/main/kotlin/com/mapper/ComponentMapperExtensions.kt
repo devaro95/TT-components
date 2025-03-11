@@ -1,6 +1,6 @@
 package com.mapper
 
-import com.app.R
+import com.ttcomponents.app.R
 import  com.domain.model.AvatarModel
 import  com.domain.model.AvatarModel.AVOCADO
 import  com.domain.model.AvatarModel.BEAR

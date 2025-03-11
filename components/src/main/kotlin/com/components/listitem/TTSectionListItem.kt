@@ -9,7 +9,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.rotate
 import androidx.compose.ui.unit.dp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.divider.TTLineDivider
 import com.components.icon.TTIcon
 import com.components.text.TTBodyText

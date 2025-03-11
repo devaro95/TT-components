@@ -8,7 +8,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.icon.TTIcon
 import com.components.styles.Primary
 import com.vro.compose.preview.VROLightMultiDevicePreview

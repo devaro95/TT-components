@@ -28,7 +28,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.text.isDigitsOnly
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.icon.TTIcon
 import com.components.input.InputType.FULL
 import com.components.styles.InputBorder

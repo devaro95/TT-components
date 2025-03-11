@@ -12,7 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.menu.TTMenuItemData.TTMenuItemClickableArrowData
 import com.components.menu.TTMenuItemData.TTMenuItemSwitchData
 import com.components.styles.InputBorder

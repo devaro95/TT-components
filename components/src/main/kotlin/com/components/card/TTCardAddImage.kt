@@ -14,7 +14,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.icon.TTIcon
 import com.components.styles.*
 import com.components.text.TTHeaderText14

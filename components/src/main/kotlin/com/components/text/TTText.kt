@@ -9,7 +9,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.sp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.styles.EmptyColor
 import com.components.styles.Font
 import com.components.styles.GuideCardHeader

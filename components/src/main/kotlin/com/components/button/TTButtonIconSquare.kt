@@ -10,11 +10,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
-import com.app.R
 import com.components.icon.TTIcon
 import com.components.styles.Background
 import com.components.styles.Primary
 import com.components.text.TTHeaderText14
+import com.ttcomponents.app.R
 import com.vro.compose.preview.VROLightMultiDevicePreview
 import com.vro.constants.EMPTY_STRING
 

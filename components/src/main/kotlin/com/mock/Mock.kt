@@ -1,18 +1,13 @@
 package com.mock
 
-import com.app.R
 import com.components.cardcarousel.TTCardCarouselTitleItem
 import com.components.icon.TTIconCardCarouselItemData
 import com.components.icon.TTIconCarouselItemData
-import  com.domain.model.GuideModel
-import  com.domain.model.InfoSectionModel
-import  com.domain.model.ParagraphSectionModel
-import  com.domain.model.RestaurantPriceModel
-import  com.domain.model.RestaurantRateModel
-import  com.domain.model.RestaurantSectionModel.RestaurantMenu
+import com.domain.model.*
+import com.domain.model.RestaurantSectionModel.RestaurantMenu
 import com.domain.model.SectionModel.InfoSection.InfoBox
 import com.domain.model.SectionModel.ParagraphSection.Paragraph
-import  com.domain.model.TabModel
+import com.ttcomponents.app.R
 import kotlinx.collections.immutable.persistentListOf
 
 const val titleMock = "This is a title"

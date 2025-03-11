@@ -1,7 +1,7 @@
 package com.extensions
 
 import android.content.Context
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.input.TTInputDropdownItemData
 import  com.domain.model.AvatarModel
 import  com.domain.model.AvatarModel.AVOCADO

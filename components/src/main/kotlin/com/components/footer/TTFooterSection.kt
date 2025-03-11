@@ -6,7 +6,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.button.TTButtonIconSquare
 import com.components.guide.guideBuilder.BuildSectionParams
 import com.components.styles.Secondary

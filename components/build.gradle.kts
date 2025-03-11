@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.app"
+    namespace = "com.ttcomponents.app"
     compileSdk = 35
 
     defaultConfig {

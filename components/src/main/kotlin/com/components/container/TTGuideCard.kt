@@ -24,7 +24,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import coil.compose.SubcomposeAsyncImage
-import com.app.R
+import com.ttcomponents.app.R
 import com.components.button.TTButtonIconSquare
 import com.components.styles.Secondary
 import com.components.text.TTBodyText14
