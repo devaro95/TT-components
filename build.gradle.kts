@@ -2,4 +2,5 @@
 plugins {
     alias(libs.plugins.android.application) apply false
     alias(libs.plugins.jetbrains.android) apply false
+    id("com.hyperdevs.poeditor") version "4.0.0" apply false
 }

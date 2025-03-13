@@ -285,4 +285,23 @@
     <string name="edit_profile_save">"Guardar datos"</string>
     <!-- Fuzzy -->
     <string name="guide_edited">"Guía editada"</string>
+    <string name="pro_date_when_title">"¿Cuándo tienes pensado ir?"</string>
+    <string name="pro_date_when_1">"Sé las fechas exactas"</string>
+    <string name="pro_date_when_2">"No estoy seguro de las fechas"</string>
+    <string name="pro_date_when_3">"Me da igual la fecha"</string>
+    <string name="pro_date_when_info">"Dinos las fechas"</string>
+    <string name="pro_date_rental_car_title">"¿Necesitas coche de alquiler en el destino?"</string>
+    <string name="pro_date_rental_car_1">"Yes"</string>
+    <string name="pro_date_rental_car_2">"No"</string>
+    <string name="pro_date_advise_title">"What would you like us to advise you on?"</string>
+    <string name="pro_date_advise_1">"Transporte al destino"</string>
+    <string name="pro_date_advise_2">"Transporte en el destino"</string>
+    <string name="pro_date_advise_3">"Alojamientos"</string>
+    <string name="pro_date_advise_4">"Actividades"</string>
+    <string name="pro_date_advise_5">"Gastronomía"</string>
+    <string name="pro_date_advise_6">"Trámites: visados, seguros, etc."</string>
+    <string name="pro_date_advise_7">"Todo"</string>
+    <string name="pro_date_advise_8">"Otro"</string>
+    <string name="pro_date_advise_info">"Indícanos el qué necesitas"</string>
+    <string name="select_day">"Selecciona día"</string>
 </resources>

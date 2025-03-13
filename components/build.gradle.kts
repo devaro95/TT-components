@@ -3,6 +3,7 @@ plugins {
     id("com.android.library")
     alias(libs.plugins.jetbrains.android)
     alias(libs.plugins.compose.compiler)
+    id("com.hyperdevs.poeditor")
 }
 
 android {
@@ -31,6 +32,11 @@ android {
     }
     buildFeatures {
         compose = true
+    }
+    poEditor {
+        apiToken.set("32c8779b738efb9cd3a3aa959fe3ecbf")
+        projectId.set(677693)
+        defaultLang.set("es")
     }
 }
 

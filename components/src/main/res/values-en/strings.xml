@@ -284,4 +284,23 @@
     <string name="retry">"Retry"</string>
     <string name="edit_profile_save">"Save data"</string>
     <string name="guide_edited">"Guide edited"</string>
+    <string name="pro_date_when_title">"When are you planning to go?"</string>
+    <string name="pro_date_when_1">"I know the exact dates"</string>
+    <string name="pro_date_when_2">"I'm not sure about the dates"</string>
+    <string name="pro_date_when_3">"I don't mind the date"</string>
+    <string name="pro_date_when_info">"Tell us the dates"</string>
+    <string name="pro_date_rental_car_title">"Do you need a rental car at your destination?"</string>
+    <string name="pro_date_rental_car_1">"Si"</string>
+    <string name="pro_date_rental_car_2">"No"</string>
+    <string name="pro_date_advise_title">"¿En qué te gustaría que te asesoremos?"</string>
+    <string name="pro_date_advise_1">"Transportation to the destination"</string>
+    <string name="pro_date_advise_2">"Transportation at the destination"</string>
+    <string name="pro_date_advise_3">"Accommodation"</string>
+    <string name="pro_date_advise_4">"Activities"</string>
+    <string name="pro_date_advise_5">"Gastronomy"</string>
+    <string name="pro_date_advise_6">"Procedures: visas, insurance, etc."</string>
+    <string name="pro_date_advise_7">"Everything"</string>
+    <string name="pro_date_advise_8">"Other"</string>
+    <string name="pro_date_advise_info">"Let us know what you need"</string>
+    <string name="select_day">"Select day"</string>
 </resources>

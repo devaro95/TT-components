@@ -3,6 +3,14 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
+        maven { url = java.net.URI("https://jitpack.io") }
+        resolutionStrategy {
+            eachPlugin {
+                if (requested.id.id == "com.hyperdevs.poeditor") {
+                    useModule("com.github.hyperdevs-team:poeditor-android-gradle-plugin:${requested.version}")
+                }
+            }
+        }
     }
 }
 
